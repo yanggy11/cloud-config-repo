@@ -1,2 +1,2 @@
 # cloud-config-repo
-config information
+configuration properties for cloud-service project
